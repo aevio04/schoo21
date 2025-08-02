@@ -101,7 +101,3 @@
 | sent_at | TIMESTAMP | Да | CURRENT_TIMESTAMP | Время отправки |
 | delivery_status | ENUM(...) | Да | 'отправлено' | Статус доставки |
 
-## Диаграммы
-
-![ER-диаграмма](diagram1.png)
-![Диаграмма классов](diagram2.png)
