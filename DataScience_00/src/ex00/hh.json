@@ -1,0 +1,346 @@
+{
+  "found": 425,
+  "pages": 22,
+  "items": [
+    {
+      "id": "123441557",
+      "name": "Data Scientist",
+      "salary": {
+        "from": 90000,
+        "to": 115000,
+        "currency": "RUR",
+        "gross": null
+      },
+      "employer": "ЕМЕ",
+      "area": "Москва",
+      "published_at": "2025-07-30T18:17:30+0300",
+      "experience": "От 1 года до 3 лет",
+      "employment": "Полная занятость",
+      "alternate_url": "https://hh.ru/vacancy/123441557",
+      "has_test": false
+    },
+    {
+      "id": "123484931",
+      "name": "Engineering Manager / Team Lead",
+      "salary": {
+        "from": 500000,
+        "to": 620000,
+        "currency": "RUR",
+        "gross": null
+      },
+      "employer": "Remokate",
+      "area": "Москва",
+      "published_at": "2025-07-31T16:51:20+0300",
+      "experience": "Более 6 лет",
+      "employment": "Полная занятость",
+      "alternate_url": "https://hh.ru/vacancy/123484931",
+      "has_test": false
+    },
+    {
+      "id": "123302703",
+      "name": "Data Scientist (Antifraud), г. Якутск",
+      "salary": {
+        "from": null,
+        "to": null,
+        "currency": null,
+        "gross": null
+      },
+      "employer": "Drivee",
+      "area": "Якутск",
+      "published_at": "2025-07-28T10:52:08+0300",
+      "experience": "От 3 до 6 лет",
+      "employment": "Полная занятость",
+      "alternate_url": "https://hh.ru/vacancy/123302703",
+      "has_test": false
+    },
+    {
+      "id": "123509957",
+      "name": "Data Scientist",
+      "salary": {
+        "from": null,
+        "to": null,
+        "currency": null,
+        "gross": null
+      },
+      "employer": "FIX PRICE",
+      "area": "Москва",
+      "published_at": "2025-08-01T10:29:52+0300",
+      "experience": "От 1 года до 3 лет",
+      "employment": "Полная занятость",
+      "alternate_url": "https://hh.ru/vacancy/123509957",
+      "has_test": false
+    },
+    {
+      "id": "123366738",
+      "name": "Data Scientist",
+      "salary": {
+        "from": null,
+        "to": null,
+        "currency": null,
+        "gross": null
+      },
+      "employer": "Lens Consulting",
+      "area": "Москва",
+      "published_at": "2025-07-29T13:03:23+0300",
+      "experience": "От 1 года до 3 лет",
+      "employment": "Полная занятость",
+      "alternate_url": "https://hh.ru/vacancy/123366738",
+      "has_test": false
+    },
+    {
+      "id": "123505974",
+      "name": "Data Scientist (NLP)",
+      "salary": {
+        "from": null,
+        "to": null,
+        "currency": null,
+        "gross": null
+      },
+      "employer": "СимбирСофт",
+      "area": "Санкт-Петербург",
+      "published_at": "2025-08-01T09:24:12+0300",
+      "experience": "От 1 года до 3 лет",
+      "employment": "Полная занятость",
+      "alternate_url": "https://hh.ru/vacancy/123505974",
+      "has_test": false
+    },
+    {
+      "id": "122674298",
+      "name": "Junior Data Scientist",
+      "salary": {
+        "from": null,
+        "to": null,
+        "currency": null,
+        "gross": null
+      },
+      "employer": "АДВ",
+      "area": "Москва",
+      "published_at": "2025-07-10T17:44:56+0300",
+      "experience": "От 1 года до 3 лет",
+      "employment": "Полная занятость",
+      "alternate_url": "https://hh.ru/vacancy/122674298",
+      "has_test": false
+    },
+    {
+      "id": "123110215",
+      "name": "Middle data scientist (классический ml)",
+      "salary": {
+        "from": null,
+        "to": null,
+        "currency": null,
+        "gross": null
+      },
+      "employer": "Ренессанс Банк",
+      "area": "Москва",
+      "published_at": "2025-07-22T14:54:12+0300",
+      "experience": "От 1 года до 3 лет",
+      "employment": "Полная занятость",
+      "alternate_url": "https://hh.ru/vacancy/123110215",
+      "has_test": false
+    },
+    {
+      "id": "122378846",
+      "name": "Junior Data Scientist",
+      "salary": {
+        "from": null,
+        "to": null,
+        "currency": null,
+        "gross": null
+      },
+      "employer": "IDF Eurasia",
+      "area": "Москва",
+      "published_at": "2025-07-04T09:39:43+0300",
+      "experience": "Нет опыта",
+      "employment": "Полная занятость",
+      "alternate_url": "https://hh.ru/vacancy/122378846",
+      "has_test": false
+    },
+    {
+      "id": "123051512",
+      "name": "Data Scientist",
+      "salary": {
+        "from": null,
+        "to": null,
+        "currency": null,
+        "gross": null
+      },
+      "employer": "ФИНАМ",
+      "area": "Москва",
+      "published_at": "2025-07-21T12:47:42+0300",
+      "experience": "От 3 до 6 лет",
+      "employment": "Полная занятость",
+      "alternate_url": "https://hh.ru/vacancy/123051512",
+      "has_test": false
+    },
+    {
+      "id": "123405149",
+      "name": "Data Scientist ( направление рекомендательных систем )",
+      "salary": {
+        "from": null,
+        "to": null,
+        "currency": null,
+        "gross": null
+      },
+      "employer": "CLICK",
+      "area": "Ташкент",
+      "published_at": "2025-07-30T09:03:41+0300",
+      "experience": "Нет опыта",
+      "employment": "Полная занятость",
+      "alternate_url": "https://hh.ru/vacancy/123405149",
+      "has_test": false
+    },
+    {
+      "id": "123256351",
+      "name": "Data Analyst / Data Scientist",
+      "salary": {
+        "from": null,
+        "to": null,
+        "currency": null,
+        "gross": null
+      },
+      "employer": "Okori Central Asia (Окори Сентрал Эйжа)",
+      "area": "Алматы",
+      "published_at": "2025-07-31T13:44:28+0300",
+      "experience": "От 1 года до 3 лет",
+      "employment": "Полная занятость",
+      "alternate_url": "https://hh.ru/vacancy/123256351",
+      "has_test": false
+    },
+    {
+      "id": "123353997",
+      "name": "Data Scientist (математик)",
+      "salary": {
+        "from": null,
+        "to": null,
+        "currency": null,
+        "gross": null
+      },
+      "employer": "Открытые решения",
+      "area": "Москва",
+      "published_at": "2025-07-29T10:36:40+0300",
+      "experience": "От 3 до 6 лет",
+      "employment": "Полная занятость",
+      "alternate_url": "https://hh.ru/vacancy/123353997",
+      "has_test": false
+    },
+    {
+      "id": "123410978",
+      "name": "Специалист по анализу данных/ Data Scientist",
+      "salary": {
+        "from": null,
+        "to": null,
+        "currency": null,
+        "gross": null
+      },
+      "employer": "KAMAZ DIGITAL",
+      "area": "Санкт-Петербург",
+      "published_at": "2025-07-30T10:25:22+0300",
+      "experience": "От 3 до 6 лет",
+      "employment": "Полная занятость",
+      "alternate_url": "https://hh.ru/vacancy/123410978",
+      "has_test": false
+    },
+    {
+      "id": "123449297",
+      "name": "Data-scientist",
+      "salary": {
+        "from": 30000,
+        "to": 45000,
+        "currency": "RUR",
+        "gross": null
+      },
+      "employer": "Аксон",
+      "area": "Тюмень",
+      "published_at": "2025-07-31T08:47:09+0300",
+      "experience": "Нет опыта",
+      "employment": "Полная занятость",
+      "alternate_url": "https://hh.ru/vacancy/123449297",
+      "has_test": false
+    },
+    {
+      "id": "123363429",
+      "name": "ML-инженер (Фото/Видео обработка) Data Scientist",
+      "salary": {
+        "from": 120000,
+        "to": null,
+        "currency": "RUR",
+        "gross": null
+      },
+      "employer": "Broad Apps",
+      "area": "Санкт-Петербург",
+      "published_at": "2025-07-29T12:37:54+0300",
+      "experience": "От 1 года до 3 лет",
+      "employment": "Полная занятость",
+      "alternate_url": "https://hh.ru/vacancy/123363429",
+      "has_test": false
+    },
+    {
+      "id": "123142961",
+      "name": "Data Scientist",
+      "salary": {
+        "from": null,
+        "to": null,
+        "currency": null,
+        "gross": null
+      },
+      "employer": "hotellab.io",
+      "area": "Иннополис",
+      "published_at": "2025-07-23T12:09:59+0300",
+      "experience": "Нет опыта",
+      "employment": "Полная занятость",
+      "alternate_url": "https://hh.ru/vacancy/123142961",
+      "has_test": false
+    },
+    {
+      "id": "123451455",
+      "name": "Data Scientist",
+      "salary": {
+        "from": null,
+        "to": null,
+        "currency": null,
+        "gross": null
+      },
+      "employer": "Автономный кластерный фонд Парк инновационных технологий (Astana hub)",
+      "area": "Астана",
+      "published_at": "2025-07-31T09:29:08+0300",
+      "experience": "От 3 до 6 лет",
+      "employment": "Полная занятость",
+      "alternate_url": "https://hh.ru/vacancy/123451455",
+      "has_test": false
+    },
+    {
+      "id": "123510157",
+      "name": "Data Scientist (Middle+/Senior)",
+      "salary": {
+        "from": null,
+        "to": null,
+        "currency": null,
+        "gross": null
+      },
+      "employer": "СберМедИИ",
+      "area": "Москва",
+      "published_at": "2025-08-01T10:33:37+0300",
+      "experience": "От 3 до 6 лет",
+      "employment": "Полная занятость",
+      "alternate_url": "https://hh.ru/vacancy/123510157",
+      "has_test": false
+    },
+    {
+      "id": "123463613",
+      "name": "Data Scientist / ML-инженер",
+      "salary": {
+        "from": null,
+        "to": null,
+        "currency": null,
+        "gross": null
+      },
+      "employer": "Медиалогия",
+      "area": "Москва",
+      "published_at": "2025-07-31T12:22:06+0300",
+      "experience": "От 3 до 6 лет",
+      "employment": "Полная занятость",
+      "alternate_url": "https://hh.ru/vacancy/123463613",
+      "has_test": false
+    }
+  ]
+}
